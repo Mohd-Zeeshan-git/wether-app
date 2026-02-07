@@ -34,7 +34,7 @@ This project is designed as a **frontend system**, not just a UI.
 ---
 
 ## 🏗️ Architecture Overview
-
+```text
 Weather API
 ↓
 Services (API, Geocoding, Cache)
@@ -46,6 +46,7 @@ Hooks (Reusable Logic)
 Components (UI)
 ↓
 Weather Effects Adapter
+```
 ---
 
 ## 📁 Project Folder Structure
